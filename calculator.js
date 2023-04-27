@@ -80,7 +80,7 @@ function equal() {
             ansa = Number (letter1) % Number (letter1) 
         }
     textbox.value=ansa;
-    sign='' 
+    // sign='' 
 }
 
 function sqr() {
