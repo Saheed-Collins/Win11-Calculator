@@ -81,6 +81,7 @@ function equal() {
         }
     textbox.value=ansa;
     // sign='' 
+    // to auto calculate the Big text box value, "eaqual sign" has to be returned;
 }
 
 function sqr() {
